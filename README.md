@@ -1,3 +1,1 @@
-# tfdevtrain
-
-initial terraform code
+# TF code for basic VPC deployment 
